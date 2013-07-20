@@ -46,3 +46,6 @@
 [submodule "cookbooks/vim"]
 	path = cookbooks/vim
 	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "webroot/symfony"]
+	path = webroot/symfony
+	url = git@github.com:symfony/symfony-standard.git
